@@ -1,7 +1,4 @@
----
-title: "bloglesson"
-date: 2018-12-18
----
+
 
 title: testblog
 author: copyshiroe
@@ -18,3 +15,8 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "bloglesson"
+date: 2018-12-18
+---
